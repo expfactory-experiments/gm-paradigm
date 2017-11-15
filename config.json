@@ -1,0 +1,18 @@
+{
+     "cognitive_atlas_task_id": "trm_569d6eef27433",
+     "instructions":"Respond to the stimuli on the screen.",
+     "description":"Expfactory experiment",
+     "url":"https://www.github.com/expfactory-experiments/gm-paradigm",
+     "contributors": [
+         "Ian Eisenberg",
+         "Zeynep Enkavi",
+         "Patrick Bissett",
+         "Vanessa Sochat",
+         "Russell Poldrack"
+     ],
+     "exp_id": "gm-paradigm",
+     "name": "Guitart-Masip Learning Paradigm",
+     "reference": ["http://www.sciencedirect.com/science/article/pii/S105381191200420X"],
+     "template": "jspsych",
+     "time": 45
+}
